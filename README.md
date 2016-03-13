@@ -1,4 +1,5 @@
 # GodSearch
+> by AlfredLin from ONES Ventures
 Using GodSearch, you can search 5 main search engines in one click. The default browser will open 5 tabs and you may see the results.
 
 GOD BLESS U!
